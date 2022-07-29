@@ -1,5 +1,9 @@
-### Hi there 👋
+Hi there! 👋
 
+I'm Jannik, a 15 y/o minecraft developer from 📍 germany.  
+Currently working on my own projects. 👀  
+
+Reach me at [twitter](https://twitter.com/@rlqu21) or [discord](https://discordapp.com/users/488247721807839243), I'll do my best to help you  
 <!--
 **xwhs/xwhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
